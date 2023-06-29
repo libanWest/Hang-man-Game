@@ -1,4 +1,4 @@
-from WordsGraphics import hangman_graphics,word_list
+from WordsGraphics import hangman_graphics
 
 
 def ShowHangMan(guess):

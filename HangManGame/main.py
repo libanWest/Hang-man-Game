@@ -1,6 +1,6 @@
 import random
 from getpass import getpass
-from WordsGraphics import hangman_graphics,congratulation,gameover,gameover2,welcome
+from Graphics import hangman_graphics,congratulation,gameover,welcome
 from Logic import ShowRightWords,ShowHangMan
 
             

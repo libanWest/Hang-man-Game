@@ -62,7 +62,7 @@ hangman_graphics = ['''
                               |      / \\
                            ___|___''']
 
-word_list = ["hello", "world", "python", "programming", "hangman", "game"]
+
 
 congratulation = [
 """
